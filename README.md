@@ -1,8 +1,10 @@
 # todo
 
-A new Flutter project.
+My first app developed in flutter, to-do style. 
 
 ## Getting Started
+
+![](https://github.com/marcos-bah/todo-app/blob/master/doc/todo.jpeg)
 
 This project is a starting point for a Flutter application.
 
